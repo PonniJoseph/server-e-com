@@ -1,0 +1,75 @@
+{
+  "uploadImage": [
+    {
+      "id": "636e",
+      "ImgUrl": "https://www.luckdresses.com/image/cache/catalog/products/evening-dresses/06/487-703x1053.jpg",
+      "caption": "Caliope Maxi Dress-v neck tiered ruffle in pink floral",
+      "categoies": "women",
+      "price": "$100"
+    },
+    {
+      "id": "e4dc",
+      "ImgUrl": "https://i1.wp.com/papiliobridal.com/wp-content/uploads/2018/09/m1b-1.jpg?fit=1500%2C2000&ssl=1",
+      "caption": "Formal A-Line Chiffon Long Formal Prom Dress",
+      "categoies": "women",
+      "price": "$1000"
+    },
+    {
+      "id": "f2a0",
+      "ImgUrl": "https://tse1.mm.bing.net/th?id=OIP.yNmonRDYj77ge029jzQ3xwHaJS&pid=Api&P=0&h=180",
+      "caption": "Black wedding Dresses with Edgyelegance",
+      "categoies": "women",
+      "price": "$2000"
+    },
+    {
+      "ImgUrl": "https://tse2.mm.bing.net/th?id=OIP.XsXBGmGOtBnPmy_9ED4MWgHaJO&pid=Api&P=0&h=180",
+      "caption": "Long sleeves Tops Double Collar",
+      "categoies": "Men",
+      "price": "$999",
+      "id": "Lwx74vT"
+    }
+  ],
+  "categories": [
+    {
+      "id": "08ab",
+      "categoryName": "Kids",
+      "allImage": []
+    },
+    {
+      "id": "0fcf",
+      "categoryName": "Men",
+      "allImage": []
+    },
+    {
+      "categoryName": "Women",
+      "allImage": [],
+      "id": "iJGp4Ju"
+    }
+  ],
+  "history": [
+    {
+      "id": "3ac2",
+      "caption": "Formal A-Line Chiffon Long Formal Prom Dress",
+      "categoies": "women",
+      "price": "$450"
+    },
+    {
+      "id": "b94b",
+      "caption": "Ball Gown Sweetheart Satin Long",
+      "categoies": "women",
+      "price": "$450"
+    },
+    {
+      "id": "b5f4",
+      "caption": "Caliope Maxi Dress-v neck tiered ruffle in pink floral",
+      "categoies": "women",
+      "price": "$100"
+    },
+    {
+      "caption": "Formal A-Line Chiffon Long Formal Prom Dress",
+      "categoies": "women",
+      "price": "$1000",
+      "id": "U45ngOU"
+    }
+  ]
+}
